@@ -22,4 +22,4 @@ A saber, ele está disponível para Windows, Mac e Linux. É criado com Electron
 
 ![VS CODE](https://hub.asimov.academy/wp-content/uploads/2022/03/vscode-logo-1.jpeg)
 
-Fonte: https://www.treinaweb.com.br/blog/vs-code-o-que-e-e-por-que-voce-deve-usar
+Fonte: https://www.treinaweb.com.br/blog/vs-code-o-que-e-e-por-que-voce-deve-usar 
